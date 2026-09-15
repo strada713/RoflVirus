@@ -2,7 +2,7 @@
 
 A fun, educational C++ project demonstrating basic system behavior and terminal interactions under Linux. Created purely for entertainment and learning purposes.
 
-![Preview](screenshot.png)
+![Preview](gamevir.jpg)
 
 ## ⚠️ Disclaimer
 This program is **NOT** actual malware. It does not damage your files, steal data, or harm your operating system. It's just a joke/troll script built for fun.
